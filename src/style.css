@@ -1,0 +1,13 @@
+.s1{
+	align-content: center;
+}
+h2{
+    color: white;
+    text-align: center;
+    left: 50%;
+    border: 5px solid rgba(110,109,110,0.25);
+    cursor: pointer;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    width: 250px;
+}
